@@ -1,0 +1,38 @@
+html {
+	min-width: 1000px;
+}
+
+.fixed-container {
+	width: 960px;
+	margin: 0 auto;
+}
+
+
+#shedule {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+.item {
+	padding: 20px;
+	font-size: 18px;
+}
+
+.dl {
+	text-decoration: none;
+	border: 0px solid white;
+	padding: 5px;
+	background-color: #F3F3F3;
+	color: black;
+}
+
+.without-hw {
+	text-align: center;
+	font-size: 30px;
+}
+
+.number {
+	text-align: center;
+	
+}
+
