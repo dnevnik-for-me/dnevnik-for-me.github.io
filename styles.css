@@ -18,6 +18,18 @@ html {
 	font-size: 18px;
 }
 
+.date {
+	border: 0px solid white;
+	background-color: ;
+	border-radius: 20px;
+	padding: 5px;
+}
+
+#apr-8 {
+	text-decoration: none;
+	color: #6f7f7e;
+}
+
 .dl {
 	text-decoration: none;
 	border: 0px solid white;
