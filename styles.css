@@ -21,9 +21,14 @@ html {
 .dl {
 	text-decoration: none;
 	border: 0px solid white;
-	padding: 5px;
+	padding: 10px;
 	background-color: #6f7f7e;
-	color: black;
+	color: #e2e3dc;
+	border-radius: 40px;
+}
+
+.dl:hover {
+	padding: 8px;
 }
 
 .without-hw {
