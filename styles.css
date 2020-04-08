@@ -8,9 +8,10 @@ html {
 }
 
 
-#shedule {
+.shedule {
 	border: 1px solid black;
 	border-collapse: collapse;
+	margin-bottom: 50px;
 }
 
 .item {
@@ -24,7 +25,7 @@ html {
 	padding: 5px;
 }
 
-#apr-8 {
+.time {
 	text-decoration: none;
 	color: #6f7f7e;
 }
@@ -49,6 +50,5 @@ html {
 
 .number {
 	text-align: center;
-	
 }
 
