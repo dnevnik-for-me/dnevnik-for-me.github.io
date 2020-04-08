@@ -1,5 +1,6 @@
 html {
 	min-width: 1000px;
+	font-family: Arial;
 }
 
 .fixed-container {
@@ -7,6 +8,31 @@ html {
 	margin: 0 auto;
 }
 
+#nav {
+	font-size: 25px;
+}
+
+#nav-apr-8 {
+	border-radius: 30px;
+	background-color: #E4E4E4;
+	border: 0px solid white;
+	padding: 10px;
+}
+
+#nav-apr-9 {
+	margin-left: 100px;
+	border: 0px solid white;
+	border-radius: 30px;
+	background-color: #E4E4E4;
+	padding: 10px;
+}
+
+#bar i {
+	position: absolute;
+	top: 60px;
+	left: 225px;
+	font-size: 30px; color: #2BD2FF;
+}
 
 .shedule {
 	border: 1px solid black;
