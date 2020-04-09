@@ -38,9 +38,10 @@ a {
 }
 
 #bar i {
-	position: absolute;
-	top: 60px;
-	left: 265px;
+	position: relative;
+	top: -9px;
+	left: -15px;
+	
 	font-size: 30px; color: #2BD2FF;
 }
 
