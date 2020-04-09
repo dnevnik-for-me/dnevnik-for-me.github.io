@@ -3,6 +3,10 @@ html {
 	font-family: Arial;
 }
 
+a {
+	text-decoration: none;
+}
+
 .fixed-container {
 	width: 960px;
 	margin: 0 auto;
@@ -12,19 +16,23 @@ html {
 	font-size: 25px;
 }
 
-#nav-apr-8 {
+.time {
 	border-radius: 30px;
 	background-color: #E4E4E4;
 	border: 0px solid white;
-	padding: 10px;
+	padding: 15px;
+}
+
+.time:hover {
+	padding: 13px;
 }
 
 #nav-apr-9 {
 	margin-left: 100px;
-	border: 0px solid white;
-	border-radius: 30px;
-	background-color: #E4E4E4;
-	padding: 10px;
+}
+
+#nav-apr-10 {
+	margin-left: 100px;
 }
 
 #bar i {
@@ -51,9 +59,9 @@ html {
 	padding: 5px;
 }
 
-.time {
+.simple-a {
 	text-decoration: none;
-	color: #6f7f7e;
+	color: #6F7F7E;
 }
 
 .dl {
