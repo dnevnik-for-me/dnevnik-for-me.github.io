@@ -41,7 +41,8 @@ a {
 	position: absolute;
 	top: 60px;
 	left: 265px;
-	font-size: 30px; color: #2BD2FF;
+	font-size: 30px;
+	color: #2BD2FF;
 }
 
 .shedule {
@@ -63,7 +64,7 @@ a {
 
 .simple-a {
 	text-decoration: none;
-	color: #6F7F7E;
+	color: #63bcb8;
 }
 
 .dl {
