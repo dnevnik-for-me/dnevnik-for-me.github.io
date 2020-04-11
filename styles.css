@@ -43,6 +43,11 @@ a {
 	left: 265px;
 	font-size: 30px;
 	color: #2BD2FF;
+	position: relative;
+	top: -9px;
+	left: -15px;
+	font-size: 30px;
+	color: #2BD2FF;
 }
 
 .shedule {
