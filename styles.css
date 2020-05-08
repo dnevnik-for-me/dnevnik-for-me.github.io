@@ -23,10 +23,12 @@ a {
 	border: 0px solid white;
 	padding: 15px;
 	color: black;
+	width: 50px;
+	text-align: center;
 }
 
 .time:hover {
-	padding: 13px;
+	padding: 14px;
 }
 
 #nav-apr-9 {
